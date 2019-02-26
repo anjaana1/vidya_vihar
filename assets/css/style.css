@@ -1,0 +1,13 @@
+body>.container#my_profile>.row>.card#display_image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position:absolute;
+    top: 270px;
+    left: 580px;
+}
+body>.container#my_profile>.row>.card#display_image>img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
